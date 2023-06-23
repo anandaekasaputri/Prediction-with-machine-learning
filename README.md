@@ -1,2 +1,2 @@
-# Prediction-with-machine-learning
+# Prediction-and-classification-with-machine-learning
 Prediction with machine learning
